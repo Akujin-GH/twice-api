@@ -1,7 +1,7 @@
 {
   "members": [
     {
-      "id": 0,
+      "id": 1,
       "name": "Chaeyoung",
       "full_name": "Son Chae-young",
       "image": "/images/profile-images/chaeyoung_profile.jpg",
@@ -15,7 +15,7 @@
       "representative_color": "Red"
     },
     {
-      "id": 1,
+      "id": 2,
       "name": "Mina",
       "full_name": "Mina Sharon Myoi",
       "image": "/images/profile-images/mina_profile.jpg",
@@ -29,7 +29,7 @@
       "representative_color": "Mint Green"
     },
     {
-      "id": 2,
+      "id": 3,
       "name": "Jihyo",
       "full_name": "Park Ji-hyo",
       "image": "/images/profile-images/jihyo_profile.jpg",
@@ -43,7 +43,7 @@
       "representative_color": "Apricot"
     },
     {
-      "id": 3,
+      "id": 4,
       "name": "Jeongyeon",
       "full_name": "Yoo Kyung-wan",
       "image": "/images/profile-images/jeongyeon_profile.jpg",
@@ -57,7 +57,7 @@
       "representative_color": "Olive Green"
     },
     {
-      "id": 4,
+      "id": 5,
       "name": "Nayeon",
       "full_name": "Im Na-yeon",
       "image": "/images/profile-images/nayeon_profile.jpg",
@@ -71,7 +71,7 @@
       "representative_color": "Sky Blue"
     },
     {
-      "id": 5,
+      "id": 6,
       "name": "Dahyun",
       "full_name": "Kim Da-hyun",
       "image": "/images/profile-images/dahyun_profile.jpg",
@@ -85,7 +85,7 @@
       "representative_color": "White"
     },
     {
-      "id": 6,
+      "id": 7,
       "name": "Tzuyu",
       "full_name": "Chou Tzuyu",
       "image": "/images/profile-images/tzuyu_profile.jpg",
@@ -99,7 +99,7 @@
       "representative_color": "Blue"
     },
     {
-      "id": 7,
+      "id": 8,
       "name": "Momo",
       "full_name": "Hirai Momo",
       "image": "/images/profile-images/momo_profile.jpg",
@@ -113,7 +113,7 @@
       "representative_color": "Pink"
     },
     {
-      "id": 8,
+      "id": 9,
       "name": "Sana",
       "full_name": "Sana Minatozaki",
       "image": "/images/profile-images/sana_profile.jpg",
